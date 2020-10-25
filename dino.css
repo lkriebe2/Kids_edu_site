@@ -1,0 +1,31 @@
+@charset "utf-8";
+	.Social_Media_2_
+{
+	background-image : url(Social_Media_2_.png);
+	background-repeat : no-repeat;
+}
+.Artwork
+{
+	background-image : url(Artwork.png);
+	background-repeat : no-repeat;
+}
+.CTA_2_1_
+{
+	background-image : url(CTA_2_1_.png);
+	background-repeat : no-repeat;
+}
+.Menu
+{
+	background-image : url(Menu.png);
+	background-repeat : no-repeat;
+}
+.Logo
+{
+	background-image : url(Logo.png);
+	background-repeat : no-repeat;
+}
+.Search
+{
+	background-image : url(Search.png);
+	background-repeat : no-repeat;
+}
